@@ -39,7 +39,7 @@ telegram/电报: https://t.me/River2017CN
 ## 💻 工作环境！
 类别|badges
 :---:|:---:
-操作系统|[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]()
+操作系统|[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]()[![-](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
 编程语言|暂时还没有！
 工具|[![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
