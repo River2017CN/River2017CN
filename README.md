@@ -40,7 +40,7 @@ telegram/电报: https://t.me/River2017CN
 类别|badges
 :---:|:---:
 操作系统|[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
-编程语言|暂时还没有！
+编程语言|[![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()
 工具|[![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
 ## 📦 项目
@@ -51,7 +51,7 @@ telegram/电报: https://t.me/River2017CN
 
 ### 我现在正在进行...
 
-* 现在还没有！
+* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()https://github.com/River2017CN/My_Python_Codes
 
 ## 🏆 致谢
 排名根据字母顺序(A-Z)，不分前后！
