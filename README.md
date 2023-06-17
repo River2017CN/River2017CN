@@ -47,7 +47,7 @@ telegram/电报: https://t.me/River2017CN
 
 ###  我现在正在学习...
 
-* 还不知道！
+* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()
 
 ### 我现在正在进行...
 
