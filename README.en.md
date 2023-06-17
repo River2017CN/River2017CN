@@ -10,6 +10,7 @@
 # [> Click here for the Chinese version <](./README.md)
 
 # ⚠️ Attention!
+The English version is translated by chatGPT
 **You are browsing a page created by a beginner programmer, so you may encounter the following:**
 - Beginner mistakes
 - Muddled thinking
