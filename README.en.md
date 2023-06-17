@@ -40,7 +40,7 @@ telegram/电报: https://t.me/River2017CN
 ## 💻 Work Environment!
 Category | Badges
 :---: | :---:
-Operating System | [![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]()
+Operating System |[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
 Programming Languages | None yet!
 Tools | [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
