@@ -61,6 +61,7 @@ telegram/电报: https://t.me/River2017CN
 _她_ 和 _她_ 的群组给了我激励和重拾编程的动力！
 
 >[sb-child](https://github.com/sb-child)
+
 她同样给了我巨大的动力和信心，还愿意教授我知识！
 
 ~~*而且还很涩和可爱！*~~
