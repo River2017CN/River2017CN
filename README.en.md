@@ -48,8 +48,7 @@ Tools | [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=
 
 ### What I'm currently learning...
 
-* Still figuring it out!
-
+* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()
 ### What I'm currently working on...
 
 * Nothing at the moment!
