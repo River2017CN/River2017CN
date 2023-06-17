@@ -41,7 +41,7 @@ telegram/电报: https://t.me/River2017CN
 Category | Badges
 :---: | :---:
 Operating System |[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
-Programming Languages | None yet!
+Programming Languages | [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()
 Tools | [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
 ## 📦 Projects
@@ -51,7 +51,7 @@ Tools | [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=
 * [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()
 ### What I'm currently working on...
 
-* Nothing at the moment!
+* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()https://github.com/River2017CN/My_Python_Codes
 
 ## 🏆 Acknowledgements
 In alphabetical order (A-Z), no specific ranking!
