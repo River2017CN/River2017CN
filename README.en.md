@@ -33,7 +33,7 @@ You can simply use my universal name: `River2017CN` to refer to me!
 
 Or you can use the aliases: `River` or `2017`!
 
-telegram/电报: https://t.me/River2017CN
+telegram: https://t.me/River2017CN
 
 
 
@@ -49,9 +49,10 @@ Tools | [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=
 ### What I'm currently learning...
 
 * [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()
+* [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]()
 ### What I'm currently working on...
 
-* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()https://github.com/River2017CN/My_Python_Codes
+* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]() https://github.com/River2017CN/My_Codes
 
 ## 🏆 Acknowledgements
 In alphabetical order (A-Z), no specific ranking!
