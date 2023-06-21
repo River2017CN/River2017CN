@@ -52,7 +52,7 @@ telegram/电报: https://t.me/River2017CN
 
 ### 我现在正在进行...
 
-* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]()https://github.com/River2017CN/My_Python_Codes
+* [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]() https://github.com/River2017CN/My_Codes
 
 ## 🏆 致谢
 排名根据字母顺序(A-Z)，不分前后！
