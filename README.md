@@ -44,6 +44,7 @@ telegram/电报: https://t.me/River2017CN
 工具|[![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
 ## 📦 项目
+⚠️由于一些原因，活动已暂停。因此以下内容可能不可用。
 
 ###  我现在正在学习...
 

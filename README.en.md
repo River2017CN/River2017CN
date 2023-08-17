@@ -45,6 +45,7 @@ Programming Languages | [![-](https://img.shields.io/badge/Python-3772a2?style=f
 Tools | [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
 ## 📦 Projects
+⚠️ Due to certain reasons, activities have been temporarily suspended. As a result, the following content may not be available.
 
 ### What I'm currently learning...
 
