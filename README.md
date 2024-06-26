@@ -38,7 +38,7 @@ telegram/电报: https://t.me/River2017CN
 类别|可爱的徽章们
 :---:|:---:
 操作系统|[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
-编程语言|[![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
+编程语言|[![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() 
 工具|[![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]() [![-](https://img.shields.io/badge/RedPanda%20CPP-E85E00)]()
 
 ## 📦 项目
@@ -47,11 +47,10 @@ telegram/电报: https://t.me/River2017CN
 
 * [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]()
 * [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]()
-* [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
 
 ### 我现在正在进行...
 
-* [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() https://github.com/River2017CN/My_Codes
+* [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]() https://github.com/River2017CN/My_Codes
 
 ## 🏆 致谢
 排名根据字母顺序(A-Z)，不分前后！
