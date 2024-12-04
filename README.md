@@ -1,11 +1,6 @@
-<div>
-  <span>
-    <h1> 👐 嘿，你好呀！</h1>
-    <h2>这里是吾辈的GitHub主页!</h2>
-  </span>
-    <img src="https://avatars.githubusercontent.com/u/78515395?v=4" align='right' width='410px'>
-  </a>
-</div>
+# 👐 嘿，你好呀~
+## 这里是吾辈的GitHub主页!
+
 
 # ⚠️ 注意！
 **您正在浏览一位编程初学者，因此您可能看到以下内容：**
@@ -24,22 +19,24 @@
 
 
 
-## 📛 如何称呼？
+## 📛 如何称呼&联系方式！
 
 你可以直接用我的全网通用名：`River2017CN`称呼我！
 
 或者你可以使用简称: `River` 或 `2017` ！ 
 
-telegram/电报: https://t.me/River2017CN
+Contact me at :
+
+ [![-](https://img.shields.io/badge/River2017CN-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/River2017CN)
 
 
 
 ## 💻 工作环境！
 类别|可爱的徽章们
 :---:|:---:
-操作系统|[![-](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
+操作系统|[![-](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android_15-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
 编程语言|[![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
-工具|[![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]() [![-](https://img.shields.io/badge/RedPanda%20CPP-E85E00)]()
+工具|[![-](https://img.shields.io/badge/Visual_Studio_Code-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
 
 ## 📦 项目
 
