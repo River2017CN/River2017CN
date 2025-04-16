@@ -29,37 +29,50 @@ Contact me at :
 
  [![-](https://img.shields.io/badge/River2017CN-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/River2017CN)
 
+[![-](https://img.shields.io/badge/给我发邮件-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://t.me/River2017CN)
 
 
 ## 💻 工作环境！
 类别|可爱的徽章们
 :---:|:---:
+使用设备|[![-](https://img.shields.io/badge/Dell_G15-007DB8?style=flat-square&logo=dell&logoColor=white)]() [![-](https://img.shields.io/badge/Oneplus_13-F5010C?style=flat-square&logo=oneplus&logoColor=white)]()
 操作系统|[![-](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=Windows11&logoColor=white)]() [![-](https://img.shields.io/badge/Android_15-3DDC84?style=flat-square&logo=Android&logoColor=white)]()
 编程语言|[![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
-工具|[![-](https://img.shields.io/badge/Visual_Studio_Code-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
+工具|[![-](https://img.shields.io/badge/Visual_Studio_Code-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]() [![-](https://img.shields.io/badge/Redpanda_Cpp-d45500?style=flat-square&logo=visualstudiocode&logoColor=white)]() [![-](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)]()
+
 
 ## 📦 项目
 
 ###  我现在正在学习...
 
 * [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]()
-* [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]()
+
 * [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
 
 ### 我现在正在进行...
 
-* [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() https://github.com/River2017CN/My_Codes
+* [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() https://github.com/River2017CN/My_Codes
 
-## 🏆 致谢
+## 🏆 *学分* Credits
 排名根据字母顺序(A-Z)，不分前后！
 
->[RimoChan](https://github.com/RimoChan)
+<img src="https://github.com/Litezero.png" width="20" style="border-radius:50%;" />
 
-_她_ 和 _她_ 的群组给了我激励和重拾编程的动力！
+>[Litezero](https://github.com/Litezero)
+
+带领我学习C语言
+
+非常好的教学，使我考前~~绝境重燃~~
+
+也第n次重拾学习的欲望
+
+*n++*
+
+<img src="https://github.com/sb-child.png" width="20" style="border-radius:50%;" />
 
 >[sb-child](https://github.com/sb-child)
 
-她同样给了我巨大的动力和信心，还愿意教授我知识！
+她给了我前进巨大的动力和信心，还愿意教授我知识！
 
 ~~*而且还很涩和可爱！*~~
 
