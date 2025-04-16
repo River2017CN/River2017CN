@@ -29,7 +29,7 @@ Contact me at :
 
  [![-](https://img.shields.io/badge/River2017CN-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/River2017CN)
 
-[![-](https://img.shields.io/badge/给我发邮件-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://t.me/River2017CN)
+[![-](https://img.shields.io/badge/给我发邮件-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:river2017cn@gmail.com)
 
 
 ## 💻 工作环境！
