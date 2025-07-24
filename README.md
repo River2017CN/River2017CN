@@ -51,7 +51,17 @@ Contact me at :
 
 ### 我现在正在进行...
 
-* [![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() https://github.com/River2017CN/My_Codes
+[![-](https://img.shields.io/badge/Python-3772A2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]() 
+>这个项目记载了我的学习点滴
+
+https://github.com/River2017CN/My_Codes
+
+***
+
+[![-](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)]() 
+>我负责该项目的文档工作
+
+https://github.com/Litezero/ZephyrCraft-Panel-2
 
 ## 🏆 *学分* Credits
 排名根据字母顺序(A-Z)，不分前后！
@@ -62,11 +72,17 @@ Contact me at :
 
 带领我学习C语言
 
+让我去他的项目~~混日子~~
+
 非常好的教学，使我考前~~绝境重燃~~
+
+非常好的支持，使我难以放弃
 
 也第n次重拾学习的欲望
 
 *n++*
+
+***
 
 <img src="https://github.com/sb-child.png" width="20" style="border-radius:50%;" />
 
@@ -78,6 +94,9 @@ Contact me at :
 
 *甚至readme都是抄她的用的* quq
 
+***
+
+你们是我生命中至暗时刻的曙光，感谢你们对咱的支持，咱也永远爱着你们。❤️
 <!--
 **River2017CN/River2017CN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
